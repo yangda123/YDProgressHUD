@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
 s.name = "YDProgressHUD"
 
-s.version = "0.0.2"
+s.version = "0.0.3"
 
 s.summary = "弹窗"
 
@@ -16,9 +16,11 @@ s.author = { "yangda" => "18205598086@163.com" }
 
 s.platform = :ios, "8.0"
 
-s.source = { :git => "https://github.com/yangda123/YDProgressHUD.git", :tag => "0.0.2" }
+s.source = { :git => "https://github.com/yangda123/YDProgressHUD.git", :tag => "0.0.3" }
 
 s.source_files = "YDProgressHUD/*.{h,m}"
+
+s.resources = "YDProgressHUD/YDResurces/*.png"
 
 s.framework = "UIKit"
 
