@@ -18,7 +18,7 @@ s.platform = :ios, "8.0"
 
 s.source = { :git => "https://github.com/yangda123/YDProgressHUD.git", :tag => "0.0.1" }
 
-s.source_files = "YDProgressHUD", "YDProgressHUD/*.{h,m}"
+s.source_files = 'YDProgressHUD/**/*.{h,m}'
 
 s.framework = "UIKit"
 
