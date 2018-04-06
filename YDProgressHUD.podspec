@@ -10,7 +10,7 @@ s.homepage = "https://github.com/yangda123/YDProgressHUD"
 
 s.license = "MIT"
 
-s.author = { "杨达" => "18205598086@163.com" }
+s.author = { "yangda" => "18205598086@163.com" }
 
 s.platform = :ios, "8.0"
 
