@@ -14,7 +14,7 @@ s.author = { "杨达" => "18205598086@163.com" }
 
 s.platform = :ios, "8.0"
 
-s.source = { :git => "https://github.com/yangda123/YDProgressHUD.git", :tag => 1.0 }
+s.source = { :git => "https://github.com/yangda123/YDProgressHUD.git", :tag => "1.0" }
 
 s.source_files = "YDProgressHUD", "YDProgressHUD/*.{h,m}"
 
